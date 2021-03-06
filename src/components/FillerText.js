@@ -1,11 +1,11 @@
 import React from "react";
-import ReactDOM from "react-dom";
 
 
-export class FillerText extends React.Component {
+
+export default class FillerText extends React.Component {
     render (){
         return (
-          <div></div> 
+          <p>I am a filler text. I can be used to fill your screen. Amazing!</p> 
         )
     }
 }
