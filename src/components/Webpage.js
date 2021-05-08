@@ -7,3 +7,5 @@ const Webpage = () => {
     <FillerText />
   )
 }
+
+export default Webpage
