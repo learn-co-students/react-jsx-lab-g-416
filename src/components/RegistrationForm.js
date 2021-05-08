@@ -5,7 +5,7 @@ const RegistrationForm = () => {
     <form>
       <input type="text"/>
       <input type="password"/>
-      <button type="submit"></button>
+      <button type="submit">Submit</button>
     </form>
   )
 }
